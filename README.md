@@ -7,4 +7,4 @@ This app accepts a string. It can be any negative review about any product. It w
 5. Spam
 
 Contact me for more info :) 
-riyazahm3d@gmail.com
+riyazpro775@gmail.com
